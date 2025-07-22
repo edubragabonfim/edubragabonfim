@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Eduardo Bonfim 👋
 
-<!--
-**edubragabonfim/edubragabonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data and software professional with experience in:
+- 🧠 AI and automation (e.g. OpenAI, n8n, LangChain)
+- 📊 Data analysis and dashboards (e.g. Power BI, Python, PostgreSQL)
+- 🤖 Building assistants like [LucIAna](https://github.com/YOUR_PROJECT_LINK)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Dashboards - Brazilian Data Analytics](https://github.com/YOUR_PROJECT_LINK)
+- [LucIAna - AI-Powered Assistant](https://github.com/YOUR_PROJECT_LINK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's connect
+- LinkedIn: [linkedin.com/in/YOURNAME](https://linkedin.com/in/YOURNAME)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+<!-- Optional: GitHub Stats Badge -->
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardobonfim&show_icons=true&theme=default)
