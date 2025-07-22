@@ -10,8 +10,8 @@ I'm a data and software professional with experience in:
 - [LucIAna - AI-Powered Assistant](https://github.com/YOUR_PROJECT_LINK)
 
 ## 📫 Let's connect
-- LinkedIn: [linkedin.com/in/YOURNAME](https://linkedin.com/in/YOURNAME)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [linkedin.com/in/eduardobbonfim](www.linkedin.com/in/eduardobbonfim)
+- Portfolio: [eduardobonfim.com](https://eduardobragabonfim.up.railway.app/)
 
 <!-- Optional: GitHub Stats Badge -->
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardobonfim&show_icons=true&theme=default)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edubragabonfim&show_icons=true&theme=default)
